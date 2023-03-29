@@ -1,2 +1,2 @@
 # ValorBot-Images
-Images for Valorbot to be used in #loots-and-deaths
+Images for Valorbot to be used in #raids-and-drops
